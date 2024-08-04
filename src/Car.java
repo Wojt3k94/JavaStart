@@ -21,4 +21,9 @@ public class Car {
         System.out.println("konstruktor 2");
 
     }
+
+    Car(){
+    }
+
+
 }
